@@ -1,7 +1,8 @@
 [
  {
    "identifier": "fc497fb6-206c-11eb-adc1-0242ac120002",
-   "title": "frangi. live from Sacré",
+   "name": "live from Sacré",
+   "artist": "frangi.",
    "description": "Sacré stream record live by @frangiparis",
    "genre": "House",
    "image_url": "https://i1.sndcdn.com/artworks-vEEpkGbm35yrHqV5-BidJQA-large.jpg",
@@ -11,7 +12,8 @@
  },
  {
    "identifier": "10d6eae0-206d-11eb-adc1-0242ac120002",
-   "title": "Surf Palace x frangi. // Liberté",
+   "name": "Liberté",
+   "artist": "Surf Palace x frangi.",
    "description": "Mixtape #2 100% French by @frangiparis",
    "genre": "France",
    "image_url": "https://i1.sndcdn.com/artworks-1zyYNiNma3wzjHb4-gPWqmA-large.jpg",
@@ -21,7 +23,8 @@
  },
  {
    "identifier": "19a4956e-206d-11eb-adc1-0242ac120002",
-   "title": "frangi. [malotru]",
+   "name": "[malotru]",
+   "artist": "frangi.",
    "description": "Deep House & balearic mixtape by @frangiparis",
    "genre": "Deep House",
    "image_url": "https://i1.sndcdn.com/artworks-TlEkJd08j9ImYDTX-kKrFug-large.jpg",
