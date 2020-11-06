@@ -1,35 +1,35 @@
 [
  {
    "identifier": "fc497fb6-206c-11eb-adc1-0242ac120002",
+   "date": "20/07/2020",
    "name": "live from Sacré",
    "artist": "frangi.",
    "description": "Sacré stream record live by @frangiparis",
    "genre": "House",
    "image_url": "https://i1.sndcdn.com/artworks-vEEpkGbm35yrHqV5-BidJQA-large.jpg",
    "track_url": "",
-   "date": "20/07/2020",
-   "tracklist": ""
+   "soundcloud_url": "https://soundcloud.com/frangiparis/frangi-live-from-sacre"
  },
  {
    "identifier": "10d6eae0-206d-11eb-adc1-0242ac120002",
+   "date": "18/07/2020",
    "name": "Liberté",
    "artist": "Surf Palace x frangi.",
    "description": "Mixtape #2 100% French by @frangiparis",
    "genre": "France",
    "image_url": "https://i1.sndcdn.com/artworks-1zyYNiNma3wzjHb4-gPWqmA-large.jpg",
    "track_url": "https://firebasestorage.googleapis.com/v0/b/frangi-77c49.appspot.com/o/tracks%2FSurf%20Palace%20x%20frangi.%20__%20Liberte%CC%81.mp3?alt=media&token=6bad5272-15cf-4a50-bf90-e4e22d429b9f",
-   "date": "18/07/2020",
-   "tracklist": ""
+   "soundcloud_url": "https://soundcloud.com/surfpalace/surf-palace-x-frangi-liberte"
  },
  {
    "identifier": "19a4956e-206d-11eb-adc1-0242ac120002",
+   "date": "04/07/2020",
    "name": "[malotru]",
    "artist": "frangi.",
    "description": "Deep House & balearic mixtape by @frangiparis",
    "genre": "Deep House",
    "image_url": "https://i1.sndcdn.com/artworks-TlEkJd08j9ImYDTX-kKrFug-large.jpg",
    "track_url": "https://firebasestorage.googleapis.com/v0/b/frangi-77c49.appspot.com/o/tracks%2Ffrangi.%20%5Bmalotru%5D.mp3?alt=media&token=7fff6531-66f7-4585-9950-a91cf07ab974",
-   "date": "04/07/2020",
-   "tracklist": ""
+   "soundcloud_url": "https://soundcloud.com/frangiparis/frangi-malotru"
  }
 ]
